@@ -9,8 +9,8 @@ USERNAME = "3357791@gmail.com"
 PASSWORD = "LiuWang@12070"
 # 代理设置
 PROXIES = {
-    "http": "http://192.168.50.131:8888",
-    "https": "http://192.168.50.131:8888"
+    "http": "http://127.0.0.1:10809",
+    "https": "http://127.0.0.1:1080"
 }
 
 
